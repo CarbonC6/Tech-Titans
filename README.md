@@ -48,31 +48,6 @@ Assigned Vehicle Type to match capacity and range
 
 Key Metrics: MST Distance, Trip Time, Capacity Utilization, Time Utilization, and Coverage Utilization
 
-💻 How to Get Started
-
-Clone the repository:
-
-git clone https://github.com/your-repo/smartroute-optimizer.git
-cd smartroute-optimizer
-
-Install dependencies:
-
-pip install -r requirements.txt
-
-Run the optimizer:
-
-python optimizer.py
-
-Check the results:
-
-Optimized delivery plans in Sample Output Trip.xlsx
-
-Interactive maps in route_map.html
-
-🎥 Demo Time
-
-Want to see it in action? Check out our 2-3 minute demo video (insert link here) showing how SmartRoute Optimizer works like a charm.
-
 📊 Presentation Highlights
 
 Problem We’re Solving
